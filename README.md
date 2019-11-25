@@ -7,8 +7,7 @@
 ## 6.Write a program to convert LinkedList to ArrayList?
 ## 7. Write a program to convert HashSet to Array? 
 ## 8.Write a program to reverse ArrayList in java?
-## 9.Write a program to iterate TreeMap in java?
-## 10.Write a program to sort ArrayList using Comparable and Comparator?
-## 11.Write a program using StringBuilder/StringBuffer?
-## 12.Write a Difference between String, StringBuilder and StringBuffer?
+## 9.Write a program to sort ArrayList using Comparable and Comparator?
+## 10.Write a program using StringBuilder/StringBuffer?
+## 11.Write a Difference between String, StringBuilder and StringBuffer?
 
