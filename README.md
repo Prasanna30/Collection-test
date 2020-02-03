@@ -7,10 +7,11 @@
 ## 6.Write a program to convert LinkedList to ArrayList?(5)
 ## 7. Write a program to convert HashSet to Array? (10)
 ## 8.Write a program to reverse ArrayList in java?(5)
-## 9.Write a program to sort ArrayList using Comparable and Comparator?(20)
+## 9.Write a program to sort ArrayList using Comparable and Comparator?(20) 
 ## 10.Write a program using StringBuilder/StringBuffer?(10)
 ## 11.Write a Difference between String, StringBuilder and StringBuffer?(4)
 ## 12. What is the difference between List and set?(2)
 ## 13. What is the difference between Array & ArrayList?(2) 
 ## 14.What is the difference between HAshset and Treeset?(2)
 ## 15.Write a program to add the element and remove the element on both the side?(10)
+## What is the difference between Comparable and Comparator? Explain using short java programs. Also list advantages and disadvantages of both.
