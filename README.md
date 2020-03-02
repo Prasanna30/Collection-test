@@ -14,4 +14,27 @@
 ## 13. What is the difference between Array & ArrayList?(2) 
 ## 14.What is the difference between HAshset and Treeset?(2)
 ## 15.Write a program to add the element and remove the element on both the side?(10)
-## What is the difference between Comparable and Comparator? Explain using short java programs. Also list advantages and disadvantages of both.
+## 16.What is the difference between Comparable and Comparator? Explain using short java programs. Also list advantages and disadvantages of both.
+## 17.Write a class named Employee with fields name,age,salary,joiningDate Write comparable to compare with age and Write comparators for all other fields
+## 18.write a program that would compress the length of string, and compare the length of the compressed string to the input string and return whichever one is smaller. Example would be: input string "aaabcccc" would be compressed to "a3b1c4".
+## 19.Format the input by using Scanner 
+```
+java 76
+cpp 54
+python 675
+================================
+java           076
+cpp            054
+python         675
+================================
+```
+## Convert Roman number into Integer 
+```Symbol       Value
+I             1
+V             5
+X             10
+L             50
+C             100
+D             500
+```
+M             1000
