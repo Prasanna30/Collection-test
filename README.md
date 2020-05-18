@@ -40,7 +40,7 @@ D             500
 M             1000
 
 
-##20.1. Create package called “com.exam.exceptions”.
+##20. Create package called “com.exam.exceptions”.
 
 Create 3 custom exceptions  classes called NumberTooLargeException and
 NumberTooSmallException and ZeroNumberException
