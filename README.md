@@ -38,3 +38,17 @@ C             100
 D             500
 ```
 M             1000
+
+
+##20.1. Create package called “com.exam.exceptions”.
+
+Create 3 custom exceptions  classes called NumberTooLargeException and
+NumberTooSmallException and ZeroNumberException
+write a class called ExceptionExample with main method. Accept a
+number from user and print “Allocated Memory” if the number is less than or equal to 10000. Or
+throw NumberTooSmallException if number is negative and
+NumberTooLargeException if number is bigger than 10000. and ZeroNumberException if number is zero
+
+##21.creating a custom exception class with name AgeDoesnotMatchException.Another class Student contains two private variables name, age and, a parameterized constructor which initializes the instance variables.
+Form the main method we are accepting name and age values from user and initializing Student class by passing the accepted values.
+In the constructor of the Student class we have created an object of the exception AgeDoesnotMatchException and raised the exception (using throws) if the age value is between 17 and 24.  Output : On executing this program, you need to pass name and age values from keyboard. If the given age value id not between 17 and 24 then exception occurs
