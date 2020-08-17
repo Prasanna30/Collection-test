@@ -2,6 +2,8 @@
 ## 1.Write a program to iterate the HashMap ?(5)
 ## 2.Write a program to sort HashMap by keys ? (5)
 ## 3. Write a program to sort ArrayList in descending order?(5) 
+or
+## Calculate the average of list of numbers??(5)
 ## 4. Write a program to add element at particular index of ArrayList?(5)
 ## 5.Write a program to remove element from specified index of ArrayList?(5)
 ## 6.Write a program to convert LinkedList to ArrayList?(5)
