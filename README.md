@@ -42,15 +42,5 @@ D             500
 M             1000
 
 
-##21. Create package called “com.exam.exceptions”.(5)
-
-Create 3 custom exceptions  classes called NumberTooLargeException and
-NumberTooSmallException and ZeroNumberException
-write a class called ExceptionExample with main method. Accept a
-number from user and print “Allocated Memory” if the number is less than or equal to 10000. Or
-throw NumberTooSmallException if number is negative and
-NumberTooLargeException if number is bigger than 10000. and ZeroNumberException if number is zero
-
-##22.creating a custom exception class with name AgeDoesnotMatchException.Another class Student contains two private variables name, age and, a parameterized constructor which initializes the instance variables.(10)
-Form the main method we are accepting name and age values from user and initializing Student class by passing the accepted values.
-In the constructor of the Student class we have created an object of the exception AgeDoesnotMatchException and raised the exception (using throws) if the age value is between 17 and 24.  Output : On executing this program, you need to pass name and age values from keyboard. If the given age value id not between 17 and 24 then exception occurs
+##21. Create a customer class with details like name, age, ssn, address, city, zipcode. Write test for this class to test the values of customer object if they match the values when the object was created. 
+##22. For same customer class add exception AgeCanNotBeNegativeException. when the we try to set the age as negative number throw the exception with message "Age Can not be negative number". Write unit test case to test this exception and message.
